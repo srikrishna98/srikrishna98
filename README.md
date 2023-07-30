@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+- 🔭 I’m currently working on building an entertainment Database at USC Norman Lear Center
+- 🌱 I’m currently learning how to build a full text search with Postgres / elasticSearch
+- 👯 I’m looking to collaborate on building low latency software systems
+- 🤔 I’m looking for help with Java Spring based software architecture
+- 💬 Ask me about Full stack web development, fault tolerant systems, competitive programming, and Higher Education
+- 📫 How to reach me: srikrish@usc.edu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have played professional Table Tennis for 8 years
 
 <!--
 **srikrishna98/srikrishna98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
