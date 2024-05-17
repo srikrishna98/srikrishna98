@@ -4,8 +4,8 @@
   - a full text search with Postgres / elasticSearch
   - kernel threads, processes, virtual file systems, and virtual memory
   - an end-to-end multimedia system pipeline
-- 👯 I’m looking to collaborate on building low latency software systems and observing their performance in user-level frameworks, libraries and applications
-- 🤔 I’m looking for help with Java Spring based software architecture and C kernel coding practices
+- 👯 I’m looking to collaborate on building impactful software systems and observing their performance in user-level frameworks, libraries and applications
+- 🤔 I’m looking for help with Database internals and Python coding practices in large scale web applications
 - 💬 Ask me about Full stack web development, Operating Systems, Fault-Tolerant systems, Competitive Programming, and Higher Education
 - 📫 How to reach me: srikrish@usc.edu
 - 😄 Pronouns: He/Him
